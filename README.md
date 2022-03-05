@@ -1,3 +1,6 @@
+# Kahssie's Journey to Learning Go from LinkedIn Learning!
+All progress on different portions of the tutorial can be found across the various branches.
+
 # Learning Go
 This is the repository for the LinkedIn Learning course Learning Go. The full course is available from [LinkedIn Learning][lil-course-url].
 
